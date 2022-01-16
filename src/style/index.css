@@ -1,0 +1,123 @@
+.carausel {
+    height: 500px;
+    padding: 15px;
+
+}
+
+.background {
+    width: 80%;
+    height: 300px;
+    border: 5px solid #1E8F9C;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.placeholder {
+    color: white;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+    background-color: #45B5BA;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 70px;
+}
+
+.ListBackground {
+    background-color: #DFDADA;
+    height: 130px;
+    margin: 15px;
+    border-radius: 15px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    padding: 5px;
+}
+
+.text {
+    margin-top: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.textdesc {
+    margin-top: 5px;
+    color: gray;
+    font-size: 15px;
+}
+
+.backgroundLogin {
+    background-color: #DFDADA;
+    height: 670px;
+    width: 94%;
+    margin: 50px;
+    border-radius: 30px;
+    flex-direction: column;
+    padding: 10,
+}
+
+.imageLogin {
+    width: 85%;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+
+.backgroundtext {
+    background-color: #FAF7F7;
+    height: 400px;
+    width: 40%;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 100px;
+    margin-top: 60px;
+    border: 5px solid #45B5BA;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.Login {
+    margin-top: 80px;
+}
+
+.buttonLogin {
+    display: flex;
+    background-color: #45B5BA;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    justify-content: flex-end;
+    margin-left: auto;
+    width: 60px;
+}
+
+.text1 {
+    justify-content: space-around;
+}
+
+.buttonRegist {
+    display: flex;
+    background-color: #45B5BA;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    justify-content: flex-end;
+    margin-left: auto;
+    width: 80px;
+}
